@@ -1,4 +1,11 @@
 # Datenschutzerklärung - Android
+## Kurz und Knapp
+- Es werden lediglich Logfiles (falls beispielsweise die App abstürzt) übertragen
+- Alle anderen Daten, wie Unverträglichkeiten, Rolle, Standort oder Lieblingsmensa werden lokal auf dem Gerät gespeichert
+- Es kann sein dass in den Logfiles einige der oben genannten Daten mit übertragen werden - jedoch werden keine Daten erhoben um diese auf eine Person rückführen zu können
+
+## Lang
+
 Wir freuen uns sehr über Ihr Interesse an unserer App. Datenschutz hat einen besonders hohen Stellenwert für die MensaApp. Eine Nutzung MensaApp ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.<br>
 <br>
 Die Verarbeitung personenbezogener Daten, beispielsweise der Lieblingsmensa oder Unverträglichkeiten, erfolgt stets im Einklang mit der Datenschutz-Grundverordnung und in Übereinstimmung mit den für die MensaApp geltenden landesspezifischen Datenschutzbestimmungen. Mittels dieser Datenschutzerklärung möchte unser Unternehmen die Öffentlichkeit über Art, Umfang und Zweck der von uns erhobenen, genutzten und verarbeiteten personenbezogenen Daten informieren. Ferner werden betroffene Personen mittels dieser Datenschutzerklärung über die ihnen zustehenden Rechte aufgeklärt.<br>
