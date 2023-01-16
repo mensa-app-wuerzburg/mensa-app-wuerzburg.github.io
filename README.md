@@ -1,2 +1,2 @@
 # MensaApp
-- [Impressum](https://mensa-app-wuerzburg.github.io/IMPRESSUM.md)
+- [Impressum](https://mensa-app-wuerzburg.github.io/IMPRESSUM)
