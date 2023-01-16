@@ -2,9 +2,9 @@
 **Angaben gemäß § 5 TMG**
 
 Timo Reusch und Erik Spall<br>
-mensaApp@timo-reusch.de
+mail@mensa-app.timo-reusch.de
 
-Da dies eine rein privat und zum Spaß betriebene Webseite ist, teilen wir unsere Anschrift nur bei berechtigten (juristischen) Anliegen mit. Kontaktieren Sie uns dazu bitte per Mail an address-request@timo-reusch.de.
+Da dies eine rein privat und zum Spaß betriebene Webseite ist, teilen wir unsere Anschrift nur bei berechtigten (juristischen) Anliegen mit. Kontaktieren Sie uns dazu bitte per Mail an mail@mensa-app.timo-reusch.de.
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**<br>
 Timo Reusch und Erik Spall, Anschrift wie oben.
