@@ -1,2 +1,2 @@
-# mensa-app-wuerzburg.github.io
-Website with necessary information
+# MensaApp
+- [Impressum](https://mensa-app-wuerzburg.github.io/IMPRESSUM.md)
